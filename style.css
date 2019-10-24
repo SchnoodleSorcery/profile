@@ -1,5 +1,8 @@
 body {
-  background-color: #89AAB190;
+  /*background-color: #89AAB190;*/
+  background-image: url("./images/git_profile_background_1.jpg");
+  background-repeat: repeat;
+  height: 100vh;
 }
 
 h1{
